@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://thanhgiac1809.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Fri, 30 Sep 2022 12:27:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 04:03:58 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,32 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Top 5 những cửa hàng phụ tụng ô tô gần nhất ở Sài Gòn</title>
+		<link>https://thanhgiac1809.github.io/mywordpress/2022/10/28/top-5-nhung-cua-hang-phu-tung-o-to-gan-nhat-o-sai-gon/</link>
+					<comments>https://thanhgiac1809.github.io/mywordpress/2022/10/28/top-5-nhung-cua-hang-phu-tung-o-to-gan-nhat-o-sai-gon/#respond</comments>
+		
+		<dc:creator><![CDATA[Phanthanhgiac]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 04:03:58 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://thanhgiac1809.github.io/mywordpress/?p=317</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-container-5 wp-block-columns">
+<div class="wp-container-3 wp-block-column"></div>
+
+
+
+<div class="wp-container-4 wp-block-column"></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://thanhgiac1809.github.io/mywordpress/2022/10/28/top-5-nhung-cua-hang-phu-tung-o-to-gan-nhat-o-sai-gon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Top những nơi có phong cảnh đẹp nhất trên thế giới</title>
 		<link>https://thanhgiac1809.github.io/mywordpress/2022/09/30/__trashed/</link>
 					<comments>https://thanhgiac1809.github.io/mywordpress/2022/09/30/__trashed/#respond</comments>
