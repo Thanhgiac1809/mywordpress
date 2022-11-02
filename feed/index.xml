@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Top 5 những cửa hàng phụ tụng ô tô gần nhất ở Sài Gòn</title>
 		<link>https://thanhgiac1809.github.io/mywordpress/2022/10/28/top-5-nhung-cua-hang-phu-tung-o-to-gan-nhat-o-sai-gon/</link>
@@ -31,12 +31,12 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-container-5 wp-block-columns">
-<div class="wp-container-3 wp-block-column"></div>
+<div class="is-layout-flex wp-container-5 wp-block-columns">
+<div class="is-layout-flow wp-block-column"></div>
 
 
 
-<div class="wp-container-4 wp-block-column"></div>
+<div class="is-layout-flow wp-block-column"></div>
 </div>
 ]]></content:encoded>
 					
@@ -61,7 +61,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img width="1336" height="889" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/1.jpg" alt="" class="wp-image-20"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1336" height="889" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/1.jpg" alt="" class="wp-image-20"/></figure>
 
 
 
@@ -77,7 +77,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1336" height="751" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/2-1.jpg" alt="" class="wp-image-24"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1336" height="751" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/2-1.jpg" alt="" class="wp-image-24"/></figure>
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1336" height="888" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/3-2.png" alt="" class="wp-image-29"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1336" height="888" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/3-2.png" alt="" class="wp-image-29"/></figure>
 
 
 
@@ -101,7 +101,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1200" height="900" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/4.jpg" alt="" class="wp-image-30"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1200" height="900" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/4.jpg" alt="" class="wp-image-30"/></figure>
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1336" height="835" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/5.jpg" alt="" class="wp-image-31"/><figcaption>Keukenhof Gardens Desktop Background</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1336" height="835" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/5.jpg" alt="" class="wp-image-31"/><figcaption>Keukenhof Gardens Desktop Background</figcaption></figure>
 
 
 
@@ -125,7 +125,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1181" height="787" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/6.jpg" alt="" class="wp-image-32"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1181" height="787" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/6.jpg" alt="" class="wp-image-32"/></figure>
 
 
 
@@ -137,7 +137,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1336" height="890" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/7.jpg" alt="" class="wp-image-33"/></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="1336" height="890" src="https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/09/7.jpg" alt="" class="wp-image-33"/></figure>
 
 
 
