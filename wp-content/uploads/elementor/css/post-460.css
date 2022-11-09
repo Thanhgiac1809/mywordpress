@@ -1,0 +1,12 @@
+.elementor-460 .elementor-element.elementor-element-d70a6e4:not(.elementor-motion-effects-element-type-background), .elementor-460 .elementor-element.elementor-element-d70a6e4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://thanhgiac1809.github.io/mywordpress/wp-content/uploads/2022/11/footer_bg2-1.jpg");background-position:center center;background-size:cover;}.elementor-460 .elementor-element.elementor-element-76f4bfa4{text-align:center;}.elementor-460 .elementor-element.elementor-element-76f4bfa4 > .elementor-widget-container{margin:20% 0% 0% 0%;}.elementor-460 .elementor-element.elementor-element-1df11cd7{text-align:center;width:71%;max-width:71%;align-self:center;z-index:0;}.elementor-460 .elementor-element.elementor-element-1df11cd7 .elementor-heading-title{color:#FFFFFF;font-family:"Raleway", Sans-serif;font-size:40px;font-weight:600;text-transform:uppercase;font-style:normal;line-height:30px;-webkit-text-stroke-color:#000;stroke:#000;text-shadow:0px 0px 10px rgba(0,0,0,0.3);}.elementor-460 .elementor-element.elementor-element-1df11cd7 > .elementor-widget-container{margin:1% 0% 1% 40%;padding:1% 1% 1% 1%;border-style:solid;border-width:2px 2px 2px 2px;border-color:#FFFFFF;}.elementor-460 .elementor-element.elementor-element-70c6a77a{text-align:center;color:#FFFFFF;font-family:"Raleway", Sans-serif;font-size:25px;font-weight:400;}.elementor-460 .elementor-element.elementor-element-70c6a77a > .elementor-widget-container{margin:0% 0% 20% 0%;}/* Start custom CSS for section, class: .elementor-element-d70a6e4 */.content {
+   overflow: hidden;
+ }
+ .zoomin background{
+   -webkit-transition: all 2s ease;
+   -moz-transition: all 2s ease;
+   -ms-transition: all 2s ease;
+   transition: all 2s ease;
+ }
+ .zoomin background{
+     transform: scale(1.5);
+ }/* End custom CSS */
